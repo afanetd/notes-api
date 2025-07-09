@@ -1,0 +1,5 @@
+/home/dmitry/Notes/src/main/java/com/example/notes/NotesApplication.java
+/home/dmitry/Notes/src/main/java/com/example/notes/controller/NoteController.java
+/home/dmitry/Notes/src/main/java/com/example/notes/model/Note.java
+/home/dmitry/Notes/src/main/java/com/example/notes/repository/NoteRepository.java
+/home/dmitry/Notes/src/main/java/com/example/notes/service/NoteService.java
